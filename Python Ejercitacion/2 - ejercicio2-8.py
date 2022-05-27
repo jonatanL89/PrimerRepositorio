@@ -1,0 +1,1 @@
+#Escribir un programa que pida al usuario un número entero positivo y muestre por pantalla la cuenta desde atrás de ese número hasta cero separados por comas.
